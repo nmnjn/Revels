@@ -10,22 +10,22 @@ Revels 2020.
 ### Screenshots
 
 <p float="left">
-<img src="Screenshots/s1.jpg" width="250" style="border-radius: 40px; padding:15px">
-<img src="Screenshots/s2.jpg" width="250" style="border-radius: 40px; padding:15px">
-<img src="Screenshots/s3.jpg" width="250" style="border-radius: 40px; padding:15px">
-<img src="Screenshots/s4.jpg" width="250" style="border-radius: 40px; padding:15px">
-<img src="Screenshots/s6.jpg" width="250" style="border-radius: 40px; padding:15px">
-<img src="Screenshots/s7.jpg" width="250" style="border-radius: 40px; padding:15px">
-<img src="Screenshots/s11.jpg" width="250" style="border-radius: 40px; padding:15px">
-<img src="Screenshots/s12.jpg" width="250" style="border-radius: 40px; padding:15px">
-<img src="Screenshots/s5.jpg" width="250" style="border-radius: 40px; padding:15px">
-<img src="Screenshots/s8.jpg" width="250" style="border-radius: 40px; padding:15px">
-<img src="Screenshots/s9.jpg" width="250" style="border-radius: 40px; padding:15px">
-<img src="Screenshots/s10.jpg" width="250" style="border-radius: 40px; padding:15px">
+<img src="Screenshots/s1.jpg" width="330">
+<img src="Screenshots/s2.jpg" width="330">
+<img src="Screenshots/s3.jpg" width="330">
+<img src="Screenshots/s4.jpg" width="330">
+<img src="Screenshots/s6.jpg" width="330">
+<img src="Screenshots/s7.jpg" width="330">
+<img src="Screenshots/s11.jpg" width="330">
+<img src="Screenshots/s12.jpg" width="330">
+<img src="Screenshots/s5.jpg" width="330">
+<img src="Screenshots/s8.jpg" width="330">
+<img src="Screenshots/s9.jpg" width="330">
+<img src="Screenshots/s10.jpg" width="330">
 </p>
 
 
-### Installation
+### Installation ⚡️
 
 1. Clone the repo via git clone command.
 ```
@@ -56,10 +56,33 @@ replace token in Secrets.swift
 This app was officially developed for Manipal Institute of Technology.
 Chances are it may not be fully functional and may not load the dynamic content due to the changes in the APIs and architecture.**
 
-### Download
+### Download 📦
 App is available on App Store. You can donwload on your iOS device from [here](https://apps.apple.com/in/app/revels20/id1500173604).
 
-<!-- ### Coding standards
+
+### Developer Partners 👨🏻‍💻
+- [Akhilesh Shenoy](https://github.com/akhileshshenoy) ( Core Member )
+- [Rohit Kuber](https://github.com/rohitkuber2000) ( Organiser )
+- [Tushar Tapadia](https://github.com/TusharTapadia) ( Organiser )
+
+
+### Contributions 👷🏻‍♂️
+
+You are more than welcome to make changes and/or add features to this repository.
+Please issue a PR with your changes.
+
+### Coding standards 🔒
 
 Followed the following guides and code standards:
-[Swift Style Guide](https://github.com/linkedin/swift-style-guide) -->
+[Swift Style Guide](https://github.com/linkedin/swift-style-guide)
+
+### License 📝
+
+This repo aims to provide the students a product to learn good programming practices and concepts used in a small-scale production app. 
+
+Feel Free to use the code base in any way you'd like!
+
+
+[MIT License](https://github.com/naman17/Revels/blob/master/LICENSE)
+
+
