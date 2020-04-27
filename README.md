@@ -3,25 +3,26 @@
 # Revels
 
 The official iOS Application for the National Fest of Manipal Institute of Technology.
-Revels 2020.
+<br>
+####Revels 2020
 
 ---
 
 ### Screenshots
 
 <p float="left">
-<img src="Screenshots/s1.jpg" width="330">
-<img src="Screenshots/s2.jpg" width="330">
-<img src="Screenshots/s3.jpg" width="330">
-<img src="Screenshots/s4.jpg" width="330">
-<img src="Screenshots/s6.jpg" width="330">
-<img src="Screenshots/s7.jpg" width="330">
-<img src="Screenshots/s11.jpg" width="330">
-<img src="Screenshots/s12.jpg" width="330">
-<img src="Screenshots/s5.jpg" width="330">
-<img src="Screenshots/s8.jpg" width="330">
-<img src="Screenshots/s9.jpg" width="330">
-<img src="Screenshots/s10.jpg" width="330">
+<img src="Screenshots/s1.jpg" width="300">
+<img src="Screenshots/s2.jpg" width="300">
+<img src="Screenshots/s3.jpg" width="300">
+<img src="Screenshots/s4.jpg" width="300">
+<img src="Screenshots/s6.jpg" width="300">
+<img src="Screenshots/s7.jpg" width="300">
+<img src="Screenshots/s11.jpg" width="300">
+<img src="Screenshots/s12.jpg" width="300">
+<img src="Screenshots/s5.jpg" width="300">
+<img src="Screenshots/s8.jpg" width="300">
+<img src="Screenshots/s9.jpg" width="300">
+<img src="Screenshots/s10.jpg" width="300">
 </p>
 
 
