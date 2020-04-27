@@ -1,0 +1,6 @@
+framework module Pods_Revels_20 {
+  umbrella header "Pods-Revels-20-umbrella.h"
+
+  export *
+  module * { export * }
+}
