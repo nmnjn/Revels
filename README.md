@@ -4,7 +4,7 @@
 
 The official iOS Application for the National Fest of Manipal Institute of Technology.
 <br>
-####Revels 2020
+**Revels 2020**
 
 ---
 
