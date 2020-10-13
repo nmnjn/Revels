@@ -84,9 +84,12 @@ class UsersViewController: UITableViewController {
         self.navigationController?.setNavigationBarHidden(false, animated: false)
         tableView.reloadData()
         tableView.isScrollEnabled = false
-        infoView = InformationView(frame: self.view.frame)
+        
+        let width = UIScreen.main.bounds.width
+        let height = UIScreen.main.bounds.height
+        infoView = InformationView(frame: .init(x: 0, y: 0, width: width, height: height))
         infoView?.usersViewController = self
-        view.addSubview(infoView!)
+        tableView.addSubview(infoView!)
         updateStatusBar()
     }
     

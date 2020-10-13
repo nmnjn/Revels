@@ -420,7 +420,7 @@ class EventsViewController: UITableViewController {
              self.dismiss(animated: true) {
                  self.scheduleController?.performPaymentFor(delegateCardID: delegateCardID)
                 self.tagsEventController?.performPaymentFor(delegateCardID: delegateCardID)
-                self.featuredEventsController?.performPaymentFor(delegateCardID: delegateCardID)
+//                self.featuredEventsController?.performPaymentFor(delegateCardID: delegateCardID)
              }
         }else{
             DispatchQueue.main.async(execute: {
